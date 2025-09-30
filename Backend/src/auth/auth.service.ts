@@ -58,7 +58,7 @@ export class AuthService {
     });
 
     // Redirect back to the frontend home page
-        return res.redirect('http://localhost:3000/page');
+        return res.redirect('http://localhost:3000/Landing');
   }
 
   // REGISTER
